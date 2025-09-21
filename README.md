@@ -33,12 +33,6 @@
   <a href="https://github.com/sushmidha06/Food-Delivery-APP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushmidha06&repo=Food-Delivery-APP&theme=radical" />
   </a>
-  <a href="https://github.com/sushmidha06/Student-Performance-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushmidha06&repo=Student-Performance-App&theme=radical" />
-  </a>
-  <a href="https://github.com/sushmidha06/Self-Evolving-AI-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushmidha06&repo=Self-Evolving-AI-Agent&theme=radical" />
-  </a>
 </p>
 
 ---
@@ -75,6 +69,18 @@
 - Actively contribute to **Flutter & React UI components**  
 
 ---
+### 🎯 Current Updates
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushmidha06&theme=radical&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmidha06&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 💡 Quote / Motto
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -94,15 +100,3 @@
 
 ---
 
-### 🎯 Fun Neon Stats (Animated)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushmidha06&theme=radical&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmidha06&theme=radical" width="48%"/>
-</p>
-
----
-
-### 💡 Quote / Motto
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
