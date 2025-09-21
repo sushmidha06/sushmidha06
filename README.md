@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-</p>
-
-<h1 align="center">
-  <span style="color:#FF6B35">Hey there! 👋 I'm Sushmidha</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Sushmidha</h1>
 <h3 align="center">Full-stack Developer | Flutter & React Enthusiast | AI & ML Explorer</h3>
 
 ---
@@ -23,16 +17,13 @@
 
 ---
 
-### ⚡ Animated Typing
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&width=600&lines=Building+Innovative+Apps;Learning+AI+and+ML;Sharing+Open+Source+Projects;Creating+Impactful+Solutions)
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushmidha06&show_icons=true&theme=radical&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmidha06&theme=radical" width="45%"/>
+</p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushmidha06&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmidha06&theme=radical" width="48%"/>
-</p>
 
 ### 🖥️ Most Used Languages
 <p align="center">
@@ -78,21 +69,7 @@
 
 ---
 
-### 🌈 Fun & Cool GIF
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300"/>
-</p>
-
----
-
-### 🌟 Daily Inspiration
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sushmidha06&theme=react-dark&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sushmidha06&theme=github&hide_border=true" />
 </p>
