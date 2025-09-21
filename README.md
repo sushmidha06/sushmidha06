@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#FF6B35">Hi 👋, I'm Sushmidha</span>
+  <span style="background: linear-gradient(90deg,#FF6B35,#FF3CAC); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Sushmidha</span>
 </h1>
 <h3 align="center">
   Full-stack Developer | Flutter & React Enthusiast | AI & ML Explorer
@@ -23,31 +23,18 @@
 
 ### ⚡ About Me
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&width=600&lines=Building+Innovative+Apps;Learning+AI+and+ML;Creating+Impactful+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&width=600&lines=Building+Innovative+Apps;Exploring+AI+%26+ML;Creating+Impactful+Solutions" />
 </p>
 
 ---
 
-### 🔥 Top Projects
+### 🔥 Featured Projects
 <p align="center">
   <a href="https://github.com/sushmidha06/Food-Delivery-APP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushmidha06&repo=Food-Delivery-APP&theme=radical" />
   </a>
+ 
 </p>
-
----
-
-### 🚀 Currently Working On
-- **AI-powered Student Performance Analysis App** using Python & Flutter  
-- **Home Services Booking App** with multilingual support and Firebase backend  
-- **Self-Evolving AI Agent** that autonomously improves tasks using feedback loops  
-
----
-
-### 📚 Learning & Exploring
-- Advanced **Machine Learning & Deep Learning**  
-- **Flutter animations & complex UI/UX patterns**  
-- **Real-time AI integrations** & **cloud deployment**  
 
 ---
 
@@ -64,12 +51,13 @@
 ---
 
 ### 🤝 Open Source Contributions
-- Contributed to **GitHub Readme Stats**, **Visitor Badge**, and other utility projects  
+- Contributed to **GitHub Readme Stats**, **Visitor Badge**, and other open-source utilities  
 - Open-sourced **student performance and job portal apps** for community learning  
 - Actively contribute to **Flutter & React UI components**  
 
 ---
-### 🎯 Current Updates
+
+### 🎯 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushmidha06&theme=radical&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmidha06&theme=radical" width="48%"/>
@@ -81,6 +69,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
+---
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -100,3 +90,6 @@
 
 ---
 
+<p align="center">
+  <em>“Turning ideas into code, and code into impact.” 🚀</em>
+</p>
