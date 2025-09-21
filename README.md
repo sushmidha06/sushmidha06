@@ -44,6 +44,27 @@
 
 ---
 
+### 🚀 Currently Working On
+- Developing **AI-powered student performance analysis app** using Python & Flutter.
+- Building a **Home Services Booking App** with multi-language support and Firebase backend.
+- Improving **React web dashboard for job portal** with advanced filtering & analytics.
+
+---
+
+### 📚 Currently Learning
+- Advanced **Machine Learning & AI models** for real-time applications.
+- **Flutter animations and UI/UX best practices**.
+- Full-stack app deployment on **cloud services**.
+
+---
+
+### 🤝 Open Source Contributions
+- Contributed to **GitHub Readme Stats** & **Visitor Badge** projects.
+- Open-sourced **student performance and job portal apps** for educational purposes.
+- Regularly improve **Flutter & React components** for community projects.
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sushmidha06/" target="_blank">
@@ -59,18 +80,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🌟 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sushmidha06/count.svg" />
-</p>
-
----
-
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sushmidha06&theme=github&hide_border=true" />
-</p>
-
