@@ -1,34 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sushmidha</h1>
-<h3 align="center">Full-stack Developer | Flutter & React Enthusiast | AI & ML Explorer</h3>
+<h1 align="center">
+  <span style="color:#FF6B35">Hi 👋, I'm Sushmidha</span>
+</h1>
+<h3 align="center">
+  Full-stack Developer | Flutter & React Enthusiast | AI & ML Explorer
+</h3>
 
 ---
 
 ### 💻 Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </p>
 
 ---
 
-### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushmidha06&show_icons=true&theme=radical&count_private=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmidha06&theme=radical" width="45%"/>
-</p>
-
----
-
-### 🖥️ Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmidha06&layout=compact&theme=radical" width="45%"/>
-</p>
+### ⚡ Animated Typing
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&width=600&lines=Building+Innovative+Apps;Learning+AI+and+ML;Creating+Impactful+Solutions)
 
 ---
 
