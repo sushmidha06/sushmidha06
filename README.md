@@ -71,5 +71,6 @@
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sushmidha06&theme=github&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sushmidha06&theme=github&hide_border=true" />
 </p>
+
